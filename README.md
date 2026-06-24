@@ -9,3 +9,6 @@ My Philosophy 🧠
 
 I am not just memorizing syntax; I am training my brain to read code like a machine and structure logic. I use AI tools for syntax generation, but I design the architecture and control flow myself. I don't memorize where the semicolons go; I learn why the machine needs to make a decision. I am particularly interested in my problem-solving ability, breaking down concepts, and also combining concepts to achieve a certain goal.
 
+Level 1: Variables & State (The Boxes)
+Before a program can do anything, it needs a place to store information.
+
